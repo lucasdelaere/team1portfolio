@@ -9,7 +9,23 @@
 
 
 //globale classes
+@font-face {
+  font-family: moon;
+  src: url("../fonts/MoonBold.otf");
+}
 
+@font-face {
+  font-family: muli;
+  src: url("../fonts/MuliLight.ttf");
+}
+
+.moon{
+  font-family: moon, sans-serif;
+}
+
+.muli{
+  font-family: muli, sans-serif;
+}
 
 //header start
 

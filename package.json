@@ -16,7 +16,6 @@
     "dev": "npm-run-all sass-dev js-rollup js-minify",
     "build": "npm-run-all sass-prod css-prefix js-rollup js-minify",
     "serve": "serve"
-
   },
   "keywords": [
     "bootstrap"
